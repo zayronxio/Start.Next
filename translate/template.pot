@@ -104,15 +104,31 @@ msgid "Unhidden!"
 msgstr ""
 
 #: ../contents/ui/main.qml
-msgid "Edit Applications..."
+msgid "Edit Applications…"
 msgstr ""
 
 #: ../contents/ui/MenuRepresentation.qml
-msgid "System Preferences"
+msgid "System Settings"
 msgstr ""
 
 #: ../contents/ui/MenuRepresentation.qml
-msgid "User Home"
+msgid "Home"
+msgstr ""
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Documents"
+msgstr ""
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Music"
+msgstr ""
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Pictures"
+msgstr ""
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Video"
 msgstr ""
 
 #: ../contents/ui/MenuRepresentation.qml

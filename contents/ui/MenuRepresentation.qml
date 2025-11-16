@@ -335,11 +335,11 @@ Item {
                 model: ListModel {
                     id: two
                     ListElement {
-                        text: "favorites"
+                        text: i18n("favorites")
                         value: 0
                     }
                     ListElement {
-                        text: "All apps"
+                        text: i18n("All apps")
                         value: 1
                     }
                 }
@@ -400,32 +400,32 @@ Item {
                 ListModel {
                     id: userDirs
                     ListElement {
-                        text: "Home"
+                        text: i18n("Home")
                         icon: "user-home-symbolic"
                         command: "xdg-open $HOME"
                     }
                     ListElement {
-                        text: "Documents"
+                        text: i18n("Documents")
                         icon: "folder-documents-symbolic"
                         command: "xdg-open $(xdg-user-dir DOCUMENTS)"
                     }
                     ListElement {
-                        text: "Music"
+                        text: i18n("Music")
                         icon: "folder-music-symbolic"
                         command: "xdg-open $(xdg-user-dir MUSIC)"
                     }
                     ListElement {
-                        text: "Pictures"
+                        text: i18n("Pictures")
                         icon: "folder-pictures-symbolic"
                         command: "xdg-open $(xdg-user-dir PICTURES)"
                     }
                     ListElement {
-                        text: "Videos"
+                        text: i18n("Videos")
                         icon: "folder-videos-symbolic"
                         command: "xdg-open $(xdg-user-dir VIDEOS)"
                     }
                     ListElement {
-                        text: "System Settings"
+                        text: i18n("System Settings")
                         icon: "configure"
                         command: "systemsettings"
                     }

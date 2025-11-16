@@ -101,16 +101,32 @@ msgid "Unhidden!"
 msgstr "복구됨!"
 
 #: ../contents/ui/main.qml
-msgid "Edit Applications..."
-msgstr "프로그램 편집..."
+msgid "Edit Applications…"
+msgstr "앱 편집…"
 
 #: ../contents/ui/MenuRepresentation.qml
-msgid "System Preferences"
+msgid "System Settings"
 msgstr "시스템 설정"
 
 #: ../contents/ui/MenuRepresentation.qml
-msgid "User Home"
-msgstr "사용자 홈"
+msgid "Home"
+msgstr "홈"
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Documents"
+msgstr "문서"
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Music"
+msgstr "음악"
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Pictures"
+msgstr "사진"
+
+#: ../contents/ui/MenuRepresentation.qml
+msgid "Video"
+msgstr "비디오"
 
 #: ../contents/ui/MenuRepresentation.qml
 msgid "Lock Screen"
@@ -134,4 +150,4 @@ msgstr "즐겨찾기"
 
 #: ../contents/ui/MenuRepresentation.qml
 msgid "All apps"
-msgstr "모든 프로그램"
+msgstr "모든 앱"
